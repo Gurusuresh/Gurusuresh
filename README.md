@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gurusuresh
 - 👀 I’m interested in Learning New Things
 - 🌱 I’m currently learning People's Mind
-- 💞️ I’m looking to collaborate on Some E-Commerce
+- 💞️ I’m looking for good job 
 - 📫 How to reach me (ambatigurusuresh88@gmail.com)
 
 <!---
