@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gurusuresh
+- 👋 Hi, I’m @Guru Suresh Ambati
 - 👀 I’m passionate about learning new things, especially in the field of data engineering.
 - 🌱 Currently exploring new ways to understand and analyze data more efficiently.
 - 💻 I'm a Junior Data Engineer with experience in Python, SQL, Azure, and Power BI.
