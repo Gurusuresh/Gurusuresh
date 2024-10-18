@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gurusuresh
-- 👀 I’m interested in Learning New Things
--  🌱 Currently exploring new ways to understand and analyze data more efficiently.
+- 👀 I’m passionate about learning new things, especially in the field of data engineering.
+- 🌱 Currently exploring new ways to understand and analyze data more efficiently.
 - 💻 I'm a Junior Data Engineer with experience in Python, SQL, Azure, and Power BI.
 - ✨ Actively seeking new job opportunities that align with my skills and growth.
 - 📫 How to reach me (ambatigurusuresh88@gmail.com)
